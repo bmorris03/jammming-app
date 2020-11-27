@@ -1,7 +1,7 @@
 let accessToken;
 //API information - sensitive info removed
 const clientID = '';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://thin-umbrella.surge.sh';
 
 const Spotify = {
     getAccessToken() {
