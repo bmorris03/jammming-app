@@ -25,4 +25,5 @@ A live demo of this project build was deployed with Surge: http://thin-umbrella.
 ## Authors
 
 Project: Codecademy.com
+
 Project Build: Brittany Morris
